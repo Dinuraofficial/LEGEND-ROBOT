@@ -1,4 +1,4 @@
-#   <p align="center">  LEGEND-ROBOT
+#  <h1 align="center"><b>LEGEND-REBOT</b></h1>
 ![logo](https://telegra.ph/file/0d97b2f0dfc6fbf7206c8.jpg)
 
  GRAND OFFICIAL VERSION 2.0 ONLY NAME CHANGED
